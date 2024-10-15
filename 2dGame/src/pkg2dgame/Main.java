@@ -19,7 +19,7 @@ public class Main {
         JFrame window = new JFrame();
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         window.setResizable(false);
-        window.setTitle("Brute Crops");
+        window.setTitle("Two brothers in a farm");
             
         GamePanel gamePanel = new GamePanel();
         window.add(gamePanel);
